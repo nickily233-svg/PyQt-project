@@ -1,7 +1,7 @@
 #引入系统
 import sys
 #导入.ui转换生成的模块CouldMusic
-import CouldMusic
+from Learn import CouldMusic
 #从PyQt5.QtWidgets中引入QApplication和QWidget
 from PyQt5.QtWidgets import QApplication,QWidget
 #
